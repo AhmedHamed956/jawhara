@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "493380007164",
+    "firebase_url": "https://jawhara-a6e8f.firebaseio.com",
+    "project_id": "jawhara-a6e8f",
+    "storage_bucket": "jawhara-a6e8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493380007164:android:412c5f86c835a404ff1379",
+        "android_client_info": {
+          "package_name": "online.jawhara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493380007164-jrrr4nr2q61cs8bef56763shje0ei5vn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.jawhara",
+            "certificate_hash": "c053a44f311deebeb8bfdc7ee38216f70189f3d9"
+          }
+        },
+        {
+          "client_id": "493380007164-iptufm9c1md47j86l50e8n884sogdrmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrfA9YKEnD-RN9TuBOQeOptHRPGXbHYL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493380007164-iptufm9c1md47j86l50e8n884sogdrmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

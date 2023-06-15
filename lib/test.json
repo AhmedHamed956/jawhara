@@ -1,0 +1,22 @@
+{
+  "sku": "MS04",
+  "link_type": "related",
+  "linked_product_sku": "24-MB01",
+  "linked_product_type": "simple",
+  "position": "1",
+  "data_product": {
+    "entity_id": "1226",
+    "attribute_set_id": "10",
+    "type_id": "configurable",
+    "sku": "WJ01",
+    "status": "1",
+    "name": "Stellar Solar Jacket",
+    "small_image": "/w/j/wj01-red_main_1.jpg",
+    "thumbnail": "/w/j/wj01-red_main_1.jpg",
+    "price": "75.000000",
+    "special_price": null,
+    "new": "1",
+    "sale": "0",
+    "special_from_date": null
+  }
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jawhara</string>
+
+    <string name="facebook_app_id">469097767539694</string>
+    <string name="fb_login_protocol_scheme">fb469097767539694</string>
+
+    <string name="checkout_ui_callback_scheme">jawhara</string>
+    <string name="button_proceed_to_checkout">Proceed To Payment</string>
+    <string name="payment_confirmation">You are using %1$s to pay %2$s, Confirm?</string>
+
+</resources>

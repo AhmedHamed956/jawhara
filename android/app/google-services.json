@@ -1,0 +1,80 @@
+{
+  "project_info": {
+    "project_number": "493380007164",
+    "firebase_url": "https://jawhara-a6e8f.firebaseio.com",
+    "project_id": "jawhara-a6e8f",
+    "storage_bucket": "jawhara-a6e8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493380007164:android:412c5f86c835a404ff1379",
+        "android_client_info": {
+          "package_name": "online.jawhara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493380007164-bk550j0hlcrk0nprjbof0u0q3fo95lke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.jawhara",
+            "certificate_hash": "c7004c2f9127894eff968c8bacd611fdbbb97d49"
+          }
+        },
+        {
+          "client_id": "493380007164-i8fn95rs4hkdkte7sgs20gntu44bn2i8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.jawhara",
+            "certificate_hash": "6c003fecafce143312496ebd4c682425970b447b"
+          }
+        },
+        {
+          "client_id": "493380007164-jrrr4nr2q61cs8bef56763shje0ei5vn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.jawhara",
+            "certificate_hash": "c053a44f311deebeb8bfdc7ee38216f70189f3d9"
+          }
+        },
+        {
+          "client_id": "493380007164-mqbhnjmfi5n6rqaedpbf659onlfotoam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.jawhara",
+            "certificate_hash": "4122bcbcc2a8ef6afd0ad54b7f5916a449bdad54"
+          }
+        },
+        {
+          "client_id": "493380007164-iptufm9c1md47j86l50e8n884sogdrmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrfA9YKEnD-RN9TuBOQeOptHRPGXbHYL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493380007164-iptufm9c1md47j86l50e8n884sogdrmi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "493380007164-ct21korcnmrlgukgcjsl1luj6b0ntpm4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "online.jawhara",
+                "app_store_id": "1565162947"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
